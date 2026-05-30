@@ -24,7 +24,7 @@ This project extends a traditional RAG pipeline with lightweight agentic reasoni
 ## Baseline RAG Architecture
 
 <p align="center">
-  <img src="YOUR_BASELINE_ARCHITECTURE_IMAGE_LINK" width="450">
+  <img src="https://github.com/user-attachments/assets/d5b59b1d-1ac9-4073-84f0-9d21caaf1316" width="450">
 </p>
 
 <p align="center">
@@ -46,14 +46,6 @@ This project extends a traditional RAG pipeline with lightweight agentic reasoni
 ## Conversational RAG Extension
 
 The baseline workflow was extended with conversational memory to support follow-up questions and multi-turn interactions.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d5b59b1d-1ac9-4073-84f0-9d21caaf1316" width="450">
-</p>
-
-<p align="center">
-<i>Conversational RAG Extension</i>
-</p>
 
 ### Key Enhancements
 
